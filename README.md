@@ -1,5 +1,5 @@
 # QuasarInfo
-> My written Quasar Informational gits collection.
+My written Quasar Informational gits collection.
 > Here I am writing full documentation about very interesting and useful topics in Quasar.
 > So to preview more colorful version download or see the preview of HTML files.
 > I prefer the HTML versions. But if you need MD file version. Seeing in Gitlab is very useful.
