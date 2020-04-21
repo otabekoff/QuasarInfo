@@ -16,6 +16,9 @@ div.b {
 ```
 
 and used to add ... if the text is more than container size. Usage: can use with 1,2,3 lines of code:
+
 **ellipsis**
+
 **ellipsis-2-lines**
+
 **ellipsis-3-lines**
