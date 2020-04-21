@@ -24,4 +24,5 @@ and used to add ... if the text is more than container size. Usage: can use with
 **ellipsis-3-lines**
 
 For more go here: https://quasar.dev/style/visibility#Introduction
+
 And usage in action: https://codepen.io/Impeccable-Ninja/pen/eYpdxam
