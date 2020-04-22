@@ -51,3 +51,5 @@ export default {
   <p>{{product.name + ' ' + product.price}}</p>
   <p>{{product.info}} has {{bonus}} bonuses.</p>
 </div>
+```
+*That's it. It is what we need to know about **v-bind** for now.*
